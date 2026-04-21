@@ -1,0 +1,6 @@
+.env
+.env.save
+.chroma_portfolio/
+.venv/
+__pycache__/
+.DS_Store
