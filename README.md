@@ -1,7 +1,7 @@
 # E‑Commerce Review Intelligence
 
 
-Portfolio notebook: **NLP embeddings**, **t‑SNE exploration**, **prototype topic labels** (Quality / Fit / Style / Comfort), and **similar-review retrieval** with **Chroma** using OpenAI `text-embedding-3-small`.
+ **NLP embeddings**, **t‑SNE exploration**, **prototype topic labels** (Quality / Fit / Style / Comfort), and **similar-review retrieval** with **Chroma** using OpenAI `text-embedding-3-small`.
 
 ## What it demonstrates
 
